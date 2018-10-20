@@ -1,0 +1,14 @@
+# Description 
+CRUD karegory barang
+
+# Field
+- id (PK, AI)
+- name
+- timestamps
+
+# Filter
+- name
+
+# Reporting 
+- excel
+- csv
