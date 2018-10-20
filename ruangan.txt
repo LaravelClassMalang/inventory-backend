@@ -1,1 +1,4 @@
 Ruangan
+
+- id_ruangan (int, AI)
+- jumlah_kasur (String)
