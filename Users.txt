@@ -1,0 +1,16 @@
+# Description
+CRUD Users
+
+# Field
+- id (PK)
+- name
+- username
+- password
+- timestamps
+
+# Filter
+- name
+
+# Reporting
+- csv
+- pdf
