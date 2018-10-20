@@ -1,0 +1,6 @@
+Tes Git
+## CRUD Barang
+--id (pk, ai)
+--name (50, string)
+--stock (integer)
+--price (integer)
